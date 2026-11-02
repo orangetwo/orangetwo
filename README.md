@@ -5,9 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I am currently out of work
-- 🌱 I’m currently learning NLP
-- 👯 I’m looking to collaborate on Nothing
+- 🔭 I’m currently a PhD student
+- 🌱 I’m currently teaching myself NLP
 - 🤔 I’m currently coding in Python(Other languages are too difficult)
 - 📫 How to reach me: leesifox@gmail.com
 - ⚡ Fun fact: Life is boring
